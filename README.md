@@ -14,7 +14,6 @@ To explore immersive simulation scenarios for solar energy training in a virtual
 ## Files:
 - `ecoSolar.blend`: Blender project file
 - `ecoSolar_render1.png`: Final render image
-
-## Download .blend file from the latest release
+- Download .blend file from the [latest release](https://github.com/Soundug/ecoSolar_Blender_Demo/releases/download/publish/ecoSolar.blend)
 
 Built and rendered using Blender 4.4.1 and BlenderKit assets.
